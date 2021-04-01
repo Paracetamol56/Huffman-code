@@ -78,7 +78,3 @@ En sortie, En sortie, avec l’algorithme, on a le code Huffman
 
 `11` `0` `101` `0` `11` `0` `11` `0` `11` `0` `11` `0` `101` `0` `100`
 _(longeur : 26bits)_
-
-```
-
-```
