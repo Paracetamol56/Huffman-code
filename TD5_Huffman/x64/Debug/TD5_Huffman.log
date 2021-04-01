@@ -1,0 +1,7 @@
+﻿  Huffman.cpp
+D:\DOCUMENTS UTILISATEUR\Desktop\TD5_Huffman_vEtudiant\TD5_Huffman\Huffman.cpp(32,16): error C2676: '==' binaire : 'CSymbole' ne définit pas cet opérateur ou une conversion vers un type acceptable pour l'opérateur prédéfini
+D:\DOCUMENTS UTILISATEUR\Desktop\TD5_Huffman_vEtudiant\TD5_Huffman\Huffman.cpp(44,17): error C2059: erreur de syntaxe : '=='
+D:\DOCUMENTS UTILISATEUR\Desktop\TD5_Huffman_vEtudiant\TD5_Huffman\Huffman.cpp(45,3): error C2143: erreur de syntaxe : absence de ';' avant '{'
+  Main.cpp
+  Symbole.cpp
+  Génération de code en cours...
